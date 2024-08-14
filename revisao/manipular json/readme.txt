@@ -1,0 +1,1 @@
+Utilizei a extensão live server do vscode para rodar o projeto.
